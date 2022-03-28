@@ -1,0 +1,13 @@
+.menu_beer {
+    padding: 5px;
+    width: 350px;
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+}
+.menu h3 {
+    margin-top: 10px;
+}
+.menu h1 {
+    color: brown;
+}

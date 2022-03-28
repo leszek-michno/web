@@ -1,0 +1,15 @@
+.newpage img {
+    display: block;
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+  
+}
+.newpage {
+    margin-bottom: 10px;
+    
+}
+.newpage h3 {
+ display: inline-block;
+
+}
