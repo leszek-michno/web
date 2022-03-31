@@ -2,8 +2,8 @@ import React from "react";
 import "../styles/Header.css";
 import { Route, Routes } from "react-router-dom";
 
-import img1 from "../images/pro1.webp";
-import img2 from "../images/pro3.webp";
+import img1 from "../images/im1.webp";
+import img2 from "../images/im2.webp";
 import img3 from "../images/pro5.webp";
 import img4 from "../images/pro4.webp";
 

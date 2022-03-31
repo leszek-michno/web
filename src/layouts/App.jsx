@@ -8,10 +8,10 @@ import Footer from "./Footer";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="navi">{<Navigation />}</div>
       <div className="app">
-        <h1>Pub Propaganda</h1>
+        <p className="name">Pub Propaganda</p>
         <header>{<Header />}</header>
         <main>
           <section className="page">{<Page />}</section>

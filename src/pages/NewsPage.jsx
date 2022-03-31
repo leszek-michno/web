@@ -41,7 +41,7 @@ const NewsPage = () => {
 
   return (
     <div>
-      <h2>Aktualności</h2>
+      <h1>Aktualności</h1>
       {newsList}
     </div>
   );

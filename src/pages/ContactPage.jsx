@@ -12,7 +12,7 @@ const ContactPage = () => {
   return (
     <>
       <div className="contact">
-        <h2>Kontakt z nami: </h2>
+        <h1>Kontakt z nami: </h1>
         <a
           href={"https://www.facebook.com/propapub"}
           target="_blank"
