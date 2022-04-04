@@ -27,6 +27,7 @@ const Navigation = () => {
     { name: "aktualności", path: "news" },
     { name: "menu", path: "menu" },
     { name: "kontakt", path: "contact" },
+    { name: "galeria", path: "photos" },
   ];
 
   const menu = list.map((item) => (

@@ -4,8 +4,8 @@ import {
   AiOutlineFacebook,
   AiOutlineMail,
   AiOutlineGoogle,
-  AiOutlineHeatMap,
 } from "react-icons/ai";
+import { FiMap } from "react-icons/fi";
 import "../styles/Contact.css";
 
 const ContactPage = () => {
@@ -44,7 +44,7 @@ const ContactPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-        <AiOutlineHeatMap/>
+        <FiMap/>
         </a>
       </div>
       

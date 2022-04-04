@@ -4,6 +4,8 @@ import ContactPage from '../pages/ContactPage';
 import HomePage from '../pages/HomePage';
 import MenuPage from '../pages/MenuPage';
 import NewsPage from '../pages/NewsPage';
+import Photos from '../pages/photosPage';
+
 
 
 const Page = () => {
@@ -13,6 +15,7 @@ const Page = () => {
           <Route path='/news' element={<NewsPage/>}/>
           <Route path='/menu' element={<MenuPage />}/>
           <Route path='/contact' element={<ContactPage />}/>
+          <Route path='/photos' element={<Photos />}/>
         </Routes>
               );
 }
