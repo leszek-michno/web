@@ -1,7 +1,7 @@
 import React from "react";
 import News from "../components/News";
-import img1 from "../images/pro1.webp";
-import img2 from "../images/pro3.webp";
+import img1 from "../images/IMG1.webp";
+import img2 from "../images/IMG3.webp";
 
 
 const news = [
