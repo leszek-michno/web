@@ -1,14 +1,22 @@
+.galery {
+    display: inline;
+    margin: 0;
+}
+
+
 .galery img {    
-    float: left;;
-    width: 32%;
-    margin: 1px 1px;
-    position: relative;
+    display: flex;
+    float: left;
+    width: 33%;
+    margin: 1px;
+    cursor: pointer;
     }
 
 @media screen and (max-width: 900px) {
     .galery img {
         width: 49%;
-        margin-top: 1px;   
+        margin: 1px;
+        /* margin-top: 1px;    */
     }
    }
 @media screen and (max-width: 600px) {
