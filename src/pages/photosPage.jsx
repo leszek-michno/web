@@ -37,11 +37,14 @@ const imgArray = [
 const Photos = () => {
   const newImgArray = imgArray.map((item) => <Img key={item.id} item={item} />);
 
+  
   return (
-    <div>
+    <>
       <h1>Zdjęcia</h1>
+      <div>
       {newImgArray}
-    </div>
+      </div>
+    </>
   );
 };
 

@@ -65,10 +65,11 @@ section.page {
   flex-grow: 1;
 }
 footer {
-  background-color: black;
+  background-color: brown;
   color: white;
-  padding-bottom: 20px;
+  padding: 5px;
   text-align: center;
+  font-size: 14px;
 }
 
 .name {

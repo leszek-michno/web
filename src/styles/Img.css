@@ -1,15 +1,22 @@
-.galery {
-    display: inline;
-}
-.galery img {
-    width: 49%;
+.galery img {    
+    float: left;;
+    width: 32%;
     margin: 1px 1px;
-}
+    position: relative;
+    }
 
+@media screen and (max-width: 900px) {
+    .galery img {
+        width: 49%;
+        margin-top: 1px;   
+    }
+   }
 @media screen and (max-width: 600px) {
     .galery img {
         width: 100%;
         margin-top: 1px;
-     
+   
     }
+   
+    
 }

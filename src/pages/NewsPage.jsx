@@ -1,7 +1,7 @@
 import React from "react";
 import News from "../components/News";
-import img1 from "../images/IMG1.webp";
-import img2 from "../images/IMG3.webp";
+import img1 from "../images/pro4.webp";
+
 
 
 const news = [
@@ -23,7 +23,7 @@ const news = [
     id: 2,
     title: "Otwarcie knajpy",
     date: "(23 marzec 2022)",
-    img: img2,
+    img: img1,
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum fugiat ad doloremque ipsum in dolor excepturi fuga consequuntur, nesciunt accusamus harum possimus nihil officia ex commodi asperiores repellat alias?",
   },
   {
