@@ -2,11 +2,11 @@ import React from "react";
 import "../styles/Header.css";
 import { Route, Routes } from "react-router-dom";
 
-import img1 from "../images/IMG1.webp";
-import img2 from "../images/IMG2.webp";
-import img3 from "../images/IMG3.webp";
-import img4 from "../images/IMG4.webp";
-import img5 from "../images/IMG5.webp";
+import img1 from "../images/bike.webp";
+import img2 from "../images/dart.webp";
+import img3 from "../images/galery2.webp";
+import img4 from "../images/trabant.webp";
+import img5 from "../images/galery.webp";
 
 const Img1 = () => <img src={img1} alt="propa" />;
 const Img2 = () => <img src={img2} alt="propa" />;
