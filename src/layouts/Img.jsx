@@ -4,6 +4,7 @@ import "../styles/Img.css";
 const Img = ({ item }) => {
 
 const [width, setWidth] = useState(true);
+const [display, setDisplay] = useState(); 
 
 const handleClick =()=> {
   setWidth(width === true ? "100%" : true);
@@ -11,9 +12,10 @@ const handleClick =()=> {
 
 return (
     <div className="galery">
-      <img
-       style={{width: width}} onClick={handleClick}  
-       src={item.img} alt="zd" />
+      <img 
+       style={{width: width}} 
+       onClick={handleClick}  
+       src={item.img} alt="propaganda" />
     </div>
   );
 };

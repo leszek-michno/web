@@ -13,21 +13,14 @@ const news = [
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum fugiat ad doloremque ipsum in dolor excepturi fuga consequuntur, nesciunt accusamus harum possimus nihil officia ex commodi asperiores repellat alias? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum fugiat ad doloremque ipsum in dolor excepturi fuga consequuntur, nesciunt accusamus harum possimus nihil officia ex commodi asperiores repellat alias?",
   },
   {
-    id: 1,
+    id: 3,
     title: "Sprzedajemy koszulki z naszym logo",
     date: "(23 marzec 2022)",
     img: img1,
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum fugiat ad doloremque ipsum in dolor excepturi fuga consequuntur, nesciunt accusamus harum possimus nihil officia ex commodi asperiores repellat alias?",
   },
   {
-    id: 2,
-    title: "Otwarcie knajpy",
-    date: "(23 marzec 2022)",
-    img: img1,
-    text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum fugiat ad doloremque ipsum in dolor excepturi fuga consequuntur, nesciunt accusamus harum possimus nihil officia ex commodi asperiores repellat alias?",
-  },
-  {
-    id: 3,
+    id: 1,
     title: "Urodziny Propy",
     date: "(23 maja 2022)",
     img: img1,

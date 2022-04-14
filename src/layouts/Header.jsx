@@ -2,8 +2,8 @@ import React from "react";
 import "../styles/Header.css";
 import { Route, Routes } from "react-router-dom";
 
-import img1 from "../images/bike.webp";
-import img2 from "../images/dart.webp";
+import img1 from "../images/img11.webp";
+import img2 from "../images/img14.webp";
 import img3 from "../images/galery2.webp";
 import img4 from "../images/trabant.webp";
 import img5 from "../images/galery.webp";
@@ -13,7 +13,6 @@ const Img2 = () => <img src={img2} alt="propa" />;
 const Img3 = () => <img src={img3} alt="propa" />;
 const Img4 = () => <img src={img4} alt="propa" />;
 const Img5 = () => <img src={img5} alt="propa" />;
-
 
 const Header = () => {
   return (

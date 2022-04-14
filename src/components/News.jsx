@@ -10,6 +10,7 @@ const News = (props) => {
       <span>{props.text}</span>  
     </div>
     <br />
+    
     </>
   );
 };

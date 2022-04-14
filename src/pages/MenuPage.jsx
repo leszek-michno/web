@@ -51,13 +51,13 @@ const strongAlco = [
   { id: 17, name: "Jim Beam (40 ml)", price: 14 },
   { id: 18, name: "Jameson (40 ml)", price: 14 },
   { id: 19, name: "Ballantines (40 ml)", price: 14 },
-  { id: 40, name: "Baileys (40 ml)", price: 14 },
+  { id: 20, name: "Baileys (40 ml)", price: 14 },
   { id: 21, name: "Khalua (40 ml)", price: 14 },
   { id: 22, name: "Malibu (40 ml)", price: 14 },
   { id: 23, name: "Tequila Sierra Silver (40 ml)", price: 14 },
   { id: 24, name: "Olmeca Gold (40 ml)", price: 16 },
   { id: 25, name: "Śliwowica Passover (40 ml)", price: 16 },
-  { id: 25, name: "Remy Martin (40 ml)", price: 20 },
+  { id: 26, name: "Remy Martin (40 ml)", price: 20 },
 ];
 
 const wins = [

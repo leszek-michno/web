@@ -1,6 +1,12 @@
 .newpage img {
     display: block;
-    width: 50px;
+    width: 250px;
     float: left;
-    margin-right: 10px; 
+    margin-right: 10px;
+ 
+}
+.newpage {
+    float: left;
+    padding: 10px;
+    
 }

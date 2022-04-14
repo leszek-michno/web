@@ -1,30 +1,23 @@
 .galery {
-    display: inline;
-    margin: 0;
+  display: inline; 
 }
 
-
-.galery img {    
-    display: flex;
-    float: left;
-    width: 33%;
-    margin: 1px;
-    cursor: pointer;
-    }
+.galery img {
+  width: 33%;
+  margin: 1px;
+  cursor: pointer;
+  
+}
 
 @media screen and (max-width: 900px) {
-    .galery img {
-        width: 49%;
-        margin: 1px;
-        /* margin-top: 1px;    */
-    }
-   }
+  .galery img {
+    width: 49%;
+    margin: 1px;
+  }
+}
 @media screen and (max-width: 600px) {
-    .galery img {
-        width: 100%;
-        margin-top: 1px;
-   
-    }
-   
-    
+  .galery img {
+    width: 100%;
+    margin-top: 1px;
+  }
 }
