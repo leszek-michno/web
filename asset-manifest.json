@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.22a578b2.css",
-    "main.js": "/web/static/js/main.d8dc0840.js",
+    "main.css": "/web/static/css/main.1a51a7dc.css",
+    "main.js": "/web/static/js/main.082e86f7.js",
+    "static/media/img13.jpg": "/web/static/media/img13.e435724b0a306c2791da.jpg",
+    "static/media/img11.jpg": "/web/static/media/img11.5393ebd98e51432fd62f.jpg",
     "static/media/IMG1.webp": "/web/static/media/IMG1.43c9bb244336fab6b73d.webp",
     "static/media/IMG6.webp": "/web/static/media/IMG6.8cf7880c375dca9cfee5.webp",
     "static/media/IMG5.webp": "/web/static/media/IMG5.e5553aff704bae3ff66a.webp",
@@ -11,15 +13,15 @@
     "static/media/galery.webp": "/web/static/media/galery.65fdc09f1d137f0c90db.webp",
     "static/media/galery2.webp": "/web/static/media/galery2.6bab5100548e538b6a80.webp",
     "static/media/trabant.webp": "/web/static/media/trabant.6d47ffd9232135f86040.webp",
+    "static/media/img14.webp": "/web/static/media/img14.cad74d09dbb921e68c51.webp",
     "static/media/pro4.webp": "/web/static/media/pro4.949d8367419732de1931.webp",
-    "static/media/bike.webp": "/web/static/media/bike.b28c1ebd85491ae0a387.webp",
-    "static/media/dart.webp": "/web/static/media/dart.74bcb069bb6b39b3087b.webp",
+    "static/media/img11.webp": "/web/static/media/img11.b4f4acb1762f273eaa7f.webp",
     "index.html": "/web/index.html",
-    "main.22a578b2.css.map": "/web/static/css/main.22a578b2.css.map",
-    "main.d8dc0840.js.map": "/web/static/js/main.d8dc0840.js.map"
+    "main.1a51a7dc.css.map": "/web/static/css/main.1a51a7dc.css.map",
+    "main.082e86f7.js.map": "/web/static/js/main.082e86f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a578b2.css",
-    "static/js/main.d8dc0840.js"
+    "static/css/main.1a51a7dc.css",
+    "static/js/main.082e86f7.js"
   ]
 }
