@@ -40,7 +40,7 @@ const ContactPage = () => {
         </a>
         <a
           href={
-             "https://www.google.com/maps/dir//PUB+Propaganda/@50.0527577,19.8737538,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47165b6afe1cf8bf:0xc565cb891f25209f!2m2!1d19.9437934!2d50.0527788"
+            "https://www.google.com/maps/dir//PUB+Propaganda/@50.0527577,19.8737538,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47165b6afe1cf8bf:0xc565cb891f25209f!2m2!1d19.9437934!2d50.0527788"
           }
           target="_blank"
           rel="noopener noreferrer"

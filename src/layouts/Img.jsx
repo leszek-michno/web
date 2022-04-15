@@ -4,7 +4,7 @@ import "../styles/Img.css";
 const Img = ({ item }) => {
 
 const [width, setWidth] = useState(true);
-const [display, setDisplay] = useState(); 
+
 
 const handleClick =()=> {
   setWidth(width === true ? "100%" : true);
